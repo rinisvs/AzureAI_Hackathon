@@ -1,4 +1,4 @@
-Provide the following secret keys in order to execute the notebook
+Provide the following secret keys and endpoint urls to execute the notebook
 
 # Azure OpenAI API Key and Endpoint
 AZURE_OPENAI_API_KEY=<your Azure OPENAI service secret key>
