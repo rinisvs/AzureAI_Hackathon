@@ -1,4 +1,3 @@
-# Microsoft Generative AI Hackathon
  <div align="center">
     <img src="https://d112y698adiu2z.cloudfront.net/photos/production/challenge_photos/002/828/296/datas/full_width.png">
 </div>
